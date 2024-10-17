@@ -1,2 +1,0 @@
-Ref_Contig	Start_Ref	Ref_Pos	Query_Contig	Start_Query	Query_Pos	Ref_Loc	Query_Loc	Ref_Start	Ref_End	Query_Start	Query_End	Ref_Base	Query_Base	Dist_to_Ref_End	Dist_to_Query_End	Ref_Aligned	Query_Aligned	Perc_Iden	Cat
-SRR16119110_237_29.2183	4219	4220	Contig_251_10.5396	6990	6991	SRR16119110_237_29.2183/4220	Contig_251_10.5396/6991	948	11210	0	10262	T	C	4220	3271	10262	10262	99.99	SNP

@@ -1,3 +1,0 @@
-Query_ID	Reference_ID	Screen_Category	CSP2_Screen_SNPs	Query_Percent_Aligned	Reference_Percent_Aligned	Query_Contigs	Query_Bases	Reference_Contigs	Reference_Bases	Raw_SNPs	Purged_Length	Purged_Identity	Purged_LengthIdentity	Purged_Invalid	Purged_Indel	Purged_Duplicate	Purged_Het	Purged_Density	Filtered_Query_Edge	Filtered_Ref_Edge	Filtered_Both_Edge	Kmer_Similarity	Shared_Kmers	Query_Unique_Kmers	Reference_Unique_Kmers	MUMmer_gSNPs	MUMmer_gIndels
-Week_42_Assembly	Lab_Control	Pass	1	99.10	96.70	747	4473771	254	4584986	1	0	0	0	0	0	0	0	0	0	0	0	97.32	4449973	746	121740	1	0
-Week_42_Reads	Lab_Control	Pass	50	99.15	98.65	372	4561747	254	4584986	61	0	0	12	0	2	0	0	0	1	1	0	98.51	4526310	23072	45403	58	1

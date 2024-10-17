@@ -1,0 +1,2 @@
+Isolate_ID	Read_Type	Read_Location	Assembly_Path
+Week_42_Reads	Paired	/flash/storage/scratch/Robert.Literman/NextFlow/CSP2/assets/Screen/Reads/Week_42_Reads_1.fq.gz;/flash/storage/scratch/Robert.Literman/NextFlow/CSP2/assets/Screen/Reads/Week_42_Reads_2.fq.gz	/flash/storage/scratch/Robert.Literman/NextFlow/CSP2/Test_Output/241024_Test_Output/Contamination_Screen/Assemblies/Week_42_Reads.fasta

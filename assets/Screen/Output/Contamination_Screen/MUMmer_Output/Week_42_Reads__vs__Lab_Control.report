@@ -1,0 +1,87 @@
+/flash/storage/scratch/Robert.Literman/NextFlow/CSP2/assets/Screen/Assembly/Lab_Control.fasta /flash/storage/scratch/Robert.Literman/NextFlow/CSP2/Test_Output/241024_Test_Output/Contamination_Screen/Assemblies/Week_42_Reads.fasta
+NUCMER
+
+                               [REF]                [QRY]
+[Sequences]
+TotalSeqs                        254                  372
+AlignedSeqs            246(96.8504%)        362(97.3118%)
+UnalignedSeqs             8(3.1496%)          10(2.6882%)
+
+[Bases]
+TotalBases                   4584986              4561747
+AlignedBases       4544365(99.1140%)    4542090(99.5691%)
+UnalignedBases        40621(0.8860%)       19657(0.4309%)
+
+[Alignments]
+1-to-1                           430                  430
+TotalLength                  4541629              4541626
+AvgLength                 10561.9279           10561.9209
+AvgIdentity                  99.9973              99.9973
+
+M-to-M                           456                  456
+TotalLength                  4546109              4546108
+AvgLength                  9969.5373            9969.5351
+AvgIdentity                  99.9910              99.9910
+
+[Feature Estimates]
+Breakpoints                      609                  279
+Relocations                        0                    0
+Translocations                   186                   70
+Inversions                         0                    0
+
+Insertions                       398                  171
+InsertionSum                   42098                16262
+InsertionAvg                105.7739              95.0994
+
+TandemIns                          0                    0
+TandemInsSum                       0                    0
+TandemInsAvg                  0.0000               0.0000
+
+[SNPs]
+TotalSNPs                         61                   61
+AT                        2(3.2787%)           1(1.6393%)
+AC                        3(4.9180%)           4(6.5574%)
+AG                      14(22.9508%)         11(18.0328%)
+TA                        1(1.6393%)           2(3.2787%)
+TC                      10(16.3934%)         11(18.0328%)
+TG                        3(4.9180%)           0(0.0000%)
+CA                        4(6.5574%)           3(4.9180%)
+CT                      11(18.0328%)         10(16.3934%)
+CG                        1(1.6393%)           1(1.6393%)
+GA                      11(18.0328%)         14(22.9508%)
+GT                        0(0.0000%)           3(4.9180%)
+GC                        1(1.6393%)           1(1.6393%)
+
+TotalGSNPs                        58                   58
+AT                        2(3.4483%)           1(1.7241%)
+AC                        3(5.1724%)           3(5.1724%)
+AG                      14(24.1379%)         11(18.9655%)
+TA                        1(1.7241%)           2(3.4483%)
+TC                      10(17.2414%)         11(18.9655%)
+TG                        2(3.4483%)           0(0.0000%)
+CA                        3(5.1724%)           3(5.1724%)
+CT                      11(18.9655%)         10(17.2414%)
+CG                        0(0.0000%)           1(1.7241%)
+GA                      11(18.9655%)         14(24.1379%)
+GT                        0(0.0000%)           2(3.4483%)
+GC                        1(1.7241%)           0(0.0000%)
+
+TotalIndels                        5                    5
+A.                       1(20.0000%)           0(0.0000%)
+T.                        0(0.0000%)          1(20.0000%)
+C.                       2(40.0000%)           0(0.0000%)
+G.                       1(20.0000%)           0(0.0000%)
+.A                        0(0.0000%)          1(20.0000%)
+.T                       1(20.0000%)           0(0.0000%)
+.C                        0(0.0000%)          2(40.0000%)
+.G                        0(0.0000%)          1(20.0000%)
+
+TotalGIndels                       1                    1
+A.                       1(100.0000%)           0(0.0000%)
+T.                        0(0.0000%)           0(0.0000%)
+C.                        0(0.0000%)           0(0.0000%)
+G.                        0(0.0000%)           0(0.0000%)
+.A                        0(0.0000%)          1(100.0000%)
+.T                        0(0.0000%)           0(0.0000%)
+.C                        0(0.0000%)           0(0.0000%)
+.G                        0(0.0000%)           0(0.0000%)

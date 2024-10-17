@@ -1,0 +1,4 @@
+Isolate_ID	Isolate_Type	Assembly_Path	Contig_Count	Assembly_Bases	N50	N90	L50	L90	SHA256
+Lab_Control	Reference	/flash/storage/scratch/Robert.Literman/NextFlow/CSP2/assets/Screen/Assembly/Lab_Control.fasta	254	4584986	41813	13112	38	110	aae3a07d055bff2fa66127ca77cae35dd5cce5cc42dafea481787d4010c7dbef
+Week_42_Reads	Query	/flash/storage/scratch/Robert.Literman/NextFlow/CSP2/Test_Output/241024_Test_Output/Contamination_Screen/Assemblies/Week_42_Reads.fasta	372	4561747	24332	7894	56	171	28eca0ecf14fcc1166ae7236c849acc08ad040cd011fc4331ba124db73601009
+Week_42_Assembly	Query	/flash/storage/scratch/Robert.Literman/NextFlow/CSP2/assets/Screen/Assembly/Week_42_Assembly.fasta	747	4473771	12782	3438	105	360	85c216de6e1bb9ccf76e7e5d64931884375d66e765f4c4fe726f3be15eb91563

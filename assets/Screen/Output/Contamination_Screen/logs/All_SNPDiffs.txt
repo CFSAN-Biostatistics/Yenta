@@ -1,0 +1,2 @@
+/flash/storage/scratch/Robert.Literman/NextFlow/CSP2/Test_Output/241024_Test_Output/Contamination_Screen/snpdiffs/Week_42_Reads__vs__Lab_Control.snpdiffs
+/flash/storage/scratch/Robert.Literman/NextFlow/CSP2/Test_Output/241024_Test_Output/Contamination_Screen/snpdiffs/Week_42_Assembly__vs__Lab_Control.snpdiffs

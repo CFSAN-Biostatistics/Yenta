@@ -1,0 +1,29 @@
+Reference Screening for SNP Pipeline Analysis
+Query Isolate: Sample_F
+Reference Isolate: Sample_A
+2024-10-17 11:37:44
+-------------------------------------------------------
+
+	- SNPDiffs file is in the forward orientation
+-------------------------------------------------------
+
+Step 1: Reading in snpdiffs BED/SNP data...Done!
+-------------------------------------------------------
+
+Step 2: Filtering for short overlaps and low percent identity...Done!
+	- Raw reference genome coverage was 99.12% 
+	- After filtering based on --min_len (500) and --min_iden (99.0), reference genome coverage was 98.80% 
+-------------------------------------------------------
+
+Step 3: Filtering SNPs to get final SNP distances...
+	- Raw SNP + indel count: 30
+
+	- Unique SNP positions in reference genome: 30
+		- Purged (Indel): 1
+		- Purged (Query Edge): 1
+Done!
+	- 28 SNPs detected between Sample_F and Sample_A after filtering
+	- Full SNP data saved to /flash/storage/scratch/Robert.Literman/NextFlow/Test_CSP2/241024_Test_Output/Soil_Analysis/logs/SNP_Logs/Sample_F__vs__Sample_A_SNPs.tsv
+-------------------------------------------------------
+
+Screening Time: 0.36 seconds

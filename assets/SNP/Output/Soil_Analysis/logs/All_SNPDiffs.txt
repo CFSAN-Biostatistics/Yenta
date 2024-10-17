@@ -1,0 +1,14 @@
+/flash/storage/scratch/Robert.Literman/NextFlow/Test_CSP2/241024_Test_Output/Soil_Analysis/snpdiffs/Sample_N__vs__Sample_A.snpdiffs
+/flash/storage/scratch/Robert.Literman/NextFlow/Test_CSP2/241024_Test_Output/Soil_Analysis/snpdiffs/Sample_C__vs__Sample_A.snpdiffs
+/flash/storage/scratch/Robert.Literman/NextFlow/Test_CSP2/241024_Test_Output/Soil_Analysis/snpdiffs/Sample_B__vs__Sample_A.snpdiffs
+/flash/storage/scratch/Robert.Literman/NextFlow/Test_CSP2/241024_Test_Output/Soil_Analysis/snpdiffs/Sample_G__vs__Sample_A.snpdiffs
+/flash/storage/scratch/Robert.Literman/NextFlow/Test_CSP2/241024_Test_Output/Soil_Analysis/snpdiffs/Sample_M__vs__Sample_A.snpdiffs
+/flash/storage/scratch/Robert.Literman/NextFlow/Test_CSP2/241024_Test_Output/Soil_Analysis/snpdiffs/Sample_E__vs__Sample_A.snpdiffs
+/flash/storage/scratch/Robert.Literman/NextFlow/Test_CSP2/241024_Test_Output/Soil_Analysis/snpdiffs/Sample_L__vs__Sample_A.snpdiffs
+/flash/storage/scratch/Robert.Literman/NextFlow/Test_CSP2/241024_Test_Output/Soil_Analysis/snpdiffs/Sample_K__vs__Sample_A.snpdiffs
+/flash/storage/scratch/Robert.Literman/NextFlow/Test_CSP2/241024_Test_Output/Soil_Analysis/snpdiffs/Sample_F__vs__Sample_A.snpdiffs
+/flash/storage/scratch/Robert.Literman/NextFlow/Test_CSP2/241024_Test_Output/Soil_Analysis/snpdiffs/Sample_J__vs__Sample_A.snpdiffs
+/flash/storage/scratch/Robert.Literman/NextFlow/Test_CSP2/241024_Test_Output/Soil_Analysis/snpdiffs/Sample_O__vs__Sample_A.snpdiffs
+/flash/storage/scratch/Robert.Literman/NextFlow/Test_CSP2/241024_Test_Output/Soil_Analysis/snpdiffs/Sample_I__vs__Sample_A.snpdiffs
+/flash/storage/scratch/Robert.Literman/NextFlow/Test_CSP2/241024_Test_Output/Soil_Analysis/snpdiffs/Sample_D__vs__Sample_A.snpdiffs
+/flash/storage/scratch/Robert.Literman/NextFlow/Test_CSP2/241024_Test_Output/Soil_Analysis/snpdiffs/Sample_H__vs__Sample_A.snpdiffs
